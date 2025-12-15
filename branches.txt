@@ -1,2 +1,2 @@
 This file is to explore branching in git
-Adding a new line to this file
+Subtracting a new line to this file
